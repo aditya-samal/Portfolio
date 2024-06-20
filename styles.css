@@ -493,7 +493,7 @@
 .contact-form .name{
     display: flex;
     flex-direction: column;
-    flex-basis: 350px;
+    flex-basis: 300px;
     flex-grow: 1;
     flex-shrink: 1;
     padding: 20px 0px;
@@ -502,7 +502,7 @@
 .contact-form .email {
     display: flex;
     flex-direction: column;
-    flex-basis: 350px;
+    flex-basis: 300px;
     flex-grow: 1;
     flex-shrink: 1;
     padding: 20px 0px;
@@ -511,7 +511,7 @@
 .contact-form .message {
     display: flex;
     flex-direction: column;
-    flex-basis: 300px;
+    flex-basis: 400px;
     flex-grow: 1;
     flex-shrink: 1;
     height: 300px;
