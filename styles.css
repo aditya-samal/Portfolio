@@ -260,6 +260,8 @@
 
 .buttons{
     margin: 20px 0px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .home-left .buttons a{
